@@ -1,0 +1,17 @@
+
+/*.png
+
+*.pyc
+
+*.bts
+glsl/shaders/pass1.fsh.2x
+*.bak
+
+
+BBCHD_testcard_big.jpg
+<<<<<<< HEAD
+
+gosha/gosha
+=======
+*.exe
+>>>>>>> FETCH_HEAD
